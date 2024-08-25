@@ -1,6 +1,6 @@
 # Weather App
 
-This is a weather app made with Flutter and Weatherbit API.
+This is a weather app made with Flutter and [Weatherbit](https://www.weatherbit.io/) API.
 
 ## Features
 
@@ -20,7 +20,6 @@ This is a weather app made with Flutter and Weatherbit API.
 
 1. Clone this repository
 2. Get your Weatherbit API key
-  You can get a key [here](https://www.weatherbit.io/)
 3. Create a .env file and add your API key like this:
   ```
   API_KEY = 'your_key'
