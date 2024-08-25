@@ -23,3 +23,6 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
   ```
   API_KEY = 'your_key'
   ```
+
+## Attribution
+The weather icons used are [Weather Now icons](https://github.com/Grabstertv/WeatherNowIcons/tree/main) by [Grabstertv](https://github.com/Grabstertv/)
