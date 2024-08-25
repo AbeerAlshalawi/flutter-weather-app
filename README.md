@@ -15,7 +15,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
 [Riverpod](https://riverpod.dev/) is used for state management and API calls.
 
 ## Installing
-1. Clone the repository using this command
+1. Clone the repository using this command:
   ```git
   git clone https://github.com/AbeerAlshalawi/flutter-weather.git
   ``` 
