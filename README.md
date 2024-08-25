@@ -17,7 +17,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
 ## Installing
 1. Clone the repository using this command:
   ```git
-  git clone https://github.com/AbeerAlshalawi/flutter-weather.git
+  git clone https://github.com/AbeerAlshalawi/flutter-weather-app.git
   ``` 
 2. Create a `.env` file and add your API key like this:
   ```
