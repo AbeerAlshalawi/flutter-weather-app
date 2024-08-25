@@ -19,8 +19,7 @@ This is a weather app made with Flutter and [Weatherbit](https://www.weatherbit.
 ## Installing
 
 1. Clone this repository
-2. Get your Weatherbit API key
-3. Create a .env file and add your API key like this:
+2. Create a `.env` file and add your API key like this:
   ```
   API_KEY = 'your_key'
   ```
