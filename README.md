@@ -2,8 +2,6 @@
 
 This is a weather app made with Flutter and Weatherbit API.
 
-(Add poster here)
-
 ## Features
 
 - **Current Location Weather:** Automatically detects and displays weather data for your current location.
@@ -23,6 +21,6 @@ This is a weather app made with Flutter and Weatherbit API.
 1. Clone this repository
 2. Get your Weatherbit API key
 3. Create a .env file and add your API key like this:
-'''
+```
 API_KEY = 'your_key'
-'''
+```
