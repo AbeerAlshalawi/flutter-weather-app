@@ -23,7 +23,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
   ```git
   git clone https://github.com/AbeerAlshalawi/flutter-weather-app.git
   ``` 
-2. Create a `.env` file and add your API key like this:
+2. Create a `.env` file by adding the following line:
   ```
   API_KEY = 'your_key'
   ```
