@@ -3,8 +3,8 @@
 This is a weather app made with Flutter and [Weatherbit](https://www.weatherbit.io/) API.
 
 ## Screenshots
-<img src="screenshots/Jeddah.png" width="700" />
-<img src="screenshots/Mountain-View.png" width="700" />
+<img src="screenshots/Jeddah.png" width="600" />
+<img src="screenshots/Mountain-View.png" width="600" />
 
 ## Features
 - **Location Detection:** Automatically detects and shows weather data for your current location.
@@ -21,7 +21,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
 ## Installation
 1. Clone the repository using this command:
   ```git
-  git clone https://github.com/AbeerAlshalawi/flutter-weather-app.git
+  git clone https://github.com/AbeerAlshalawi/weather-app.git
   ``` 
 2. Create a `.env` file by adding the following line:
   ```
