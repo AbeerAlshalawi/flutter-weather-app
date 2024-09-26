@@ -3,6 +3,8 @@
 This is a weather app made with Flutter and [Weatherbit](https://www.weatherbit.io/) API.
 
 ## Screenshots
+<img src="screenshots/jeddah.png" width="500" />
+<img src="screenshots/Mountain-View.png" width="500" />
 ![Jedddah weather](/screenshots/Jeddah.png?raw=true)
 ![Mountain View weather](/screenshots/Mountain-View.png?raw=true)
 
@@ -18,7 +20,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture.
 ## State Management
 [Riverpod](https://riverpod.dev/) is used for state management and API calls.
 
-## Installing
+## Installation
 1. Clone the repository using this command:
   ```git
   git clone https://github.com/AbeerAlshalawi/flutter-weather-app.git
