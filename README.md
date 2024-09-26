@@ -3,10 +3,8 @@
 This is a weather app made with Flutter and [Weatherbit](https://www.weatherbit.io/) API.
 
 ## Screenshots
-<img src="screenshots/jeddah.png" width="500" />
-<img src="screenshots/Mountain-View.png" width="500" />
-![Jedddah weather](/screenshots/Jeddah.png?raw=true)
-![Mountain View weather](/screenshots/Mountain-View.png?raw=true)
+<img src="screenshots/Jeddah.png" width="700" />
+<img src="screenshots/Mountain-View.png" width="700" />
 
 ## Features
 - **Location Detection:** Automatically detects and shows weather data for your current location.
